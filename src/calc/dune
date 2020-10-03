@@ -1,0 +1,10 @@
+(library
+  (name intCalc)
+  (modules_without_implementation formula)
+)
+
+(menhir
+    (modules parser)
+    (flags --explain))
+    
+(ocamllex lexer)
