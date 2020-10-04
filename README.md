@@ -1,6 +1,13 @@
 # duneproj-template
-Template for OCaml project using Dune build system. Appropriate for small ~ middle size project.
+Template for OCaml project using Dune build system. Appropriate for small ~ middle size project. It contains simple integer calculator example.
 
+## Usage
+* Clone and remove following directories & files.
+  * .git/
+  * LICENSE
+  * README.md
+
+* Modify other files as you want.
 
 ## Build & Run
 
