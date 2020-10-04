@@ -4,6 +4,7 @@ Template for OCaml project using Dune build system. Appropriate for small ~ midd
 ## Usage
 * Clone and remove following directories & files.
   * .git/
+  * benchmarks/
   * LICENSE
   * README.md
 
